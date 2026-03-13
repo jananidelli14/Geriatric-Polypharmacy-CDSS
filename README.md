@@ -256,7 +256,7 @@ Pillow
 
 ## 👩‍💻 Author
 
-**Janani Delli**
+**Janani D**
 - GitHub: [@jananidelli14](https://github.com/jananidelli14)
 
 ---
