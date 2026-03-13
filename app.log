@@ -1,0 +1,602 @@
+2025-11-07 21:41:04,664 - WARNING -  * Debugger is active!
+2025-11-07 21:41:04,681 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 21:41:56,886 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.46.228:5000
+2025-11-07 21:41:56,886 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 21:41:56,905 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 21:42:02,799 - WARNING -  * Debugger is active!
+2025-11-07 21:42:02,804 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 21:42:03,637 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:03] "GET / HTTP/1.1" 200 -
+2025-11-07 21:42:03,793 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:03] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-07 21:42:04,239 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-07 21:42:27,339 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\orm\\context.py', reloading
+2025-11-07 21:42:27,389 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\engine\\base.py', reloading
+2025-11-07 21:42:27,446 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\engine\\default.py', reloading
+2025-11-07 21:42:27,457 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:27] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-11-07 21:42:27,614 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:27] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-11-07 21:42:27,699 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:27] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-11-07 21:42:27,768 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:27] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=0SIyFOWCpls2ssoYlBwS HTTP/1.1" 200 -
+2025-11-07 21:42:27,772 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:27] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-11-07 21:42:27,798 - INFO - 127.0.0.1 - - [07/Nov/2025 21:42:27] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-11-07 21:42:29,134 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 21:42:40,939 - WARNING -  * Debugger is active!
+2025-11-07 21:42:40,944 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 21:48:41,752 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.46.228:5000
+2025-11-07 21:48:41,752 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 21:48:41,773 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 21:48:47,379 - WARNING -  * Debugger is active!
+2025-11-07 21:48:47,383 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 21:49:38,691 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.46.228:5000
+2025-11-07 21:49:38,691 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 21:49:38,707 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 21:49:44,398 - WARNING -  * Debugger is active!
+2025-11-07 21:49:44,402 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 21:51:17,876 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:17] "GET / HTTP/1.1" 200 -
+2025-11-07 21:51:17,960 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:51:18,275 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-07 21:51:26,545 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:26] "POST /login HTTP/1.1" 200 -
+2025-11-07 21:51:26,594 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:51:28,877 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:28] "GET /register HTTP/1.1" 200 -
+2025-11-07 21:51:28,925 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:51:42,739 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:42] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-11-07 21:51:42,749 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:42] "GET /login HTTP/1.1" 200 -
+2025-11-07 21:51:42,793 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:51:51,876 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-07 21:51:52,072 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:52] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:51:52,124 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:51:52,176 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:52] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:51:55,954 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:55] "GET /settings HTTP/1.1" 200 -
+2025-11-07 21:51:56,004 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:51:58,249 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:58] "[32mPOST /clear-history HTTP/1.1[0m" 302 -
+2025-11-07 21:51:58,259 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:58] "GET /settings HTTP/1.1" 200 -
+2025-11-07 21:51:58,311 - INFO - 127.0.0.1 - - [07/Nov/2025 21:51:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:52:05,029 - INFO - 127.0.0.1 - - [07/Nov/2025 21:52:05] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:52:05,076 - INFO - 127.0.0.1 - - [07/Nov/2025 21:52:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:52:05,105 - INFO - 127.0.0.1 - - [07/Nov/2025 21:52:05] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:52:08,793 - INFO - 127.0.0.1 - - [07/Nov/2025 21:52:08] "GET /settings HTTP/1.1" 200 -
+2025-11-07 21:52:08,849 - INFO - 127.0.0.1 - - [07/Nov/2025 21:52:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:52:14,418 - INFO - 127.0.0.1 - - [07/Nov/2025 21:52:14] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:52:14,487 - INFO - 127.0.0.1 - - [07/Nov/2025 21:52:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:52:14,512 - INFO - 127.0.0.1 - - [07/Nov/2025 21:52:14] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:52:50,100 - INFO - Chat request from user 1: 178 chars, Image: False
+2025-11-07 21:52:50,106 - INFO - Using Gemini extraction with context
+2025-11-07 21:52:54,614 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-11-07 21:52:54,786 - INFO - Proceeding with XAI analysis
+2025-11-07 21:52:58,182 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 21:53:08,261 - WARNING -  * Debugger is active!
+2025-11-07 21:53:08,267 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 21:53:08,322 - INFO - 127.0.0.1 - - [07/Nov/2025 21:53:08] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:53:15,698 - INFO - Chat request from user 1: 0 chars, Image: True
+2025-11-07 21:53:15,708 - INFO - Using Gemini extraction with context
+2025-11-07 21:53:19,062 - INFO - Image processed for conversational mode
+2025-11-07 21:53:37,975 - INFO - 127.0.0.1 - - [07/Nov/2025 21:53:37] "POST /chat HTTP/1.1" 200 -
+2025-11-07 21:53:37,987 - INFO - 127.0.0.1 - - [07/Nov/2025 21:53:37] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:57:17,524 - INFO - 127.0.0.1 - - [07/Nov/2025 21:57:17] "GET /settings HTTP/1.1" 200 -
+2025-11-07 21:57:17,567 - INFO - 127.0.0.1 - - [07/Nov/2025 21:57:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:57:28,762 - INFO - 127.0.0.1 - - [07/Nov/2025 21:57:28] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 21:57:28,814 - INFO - 127.0.0.1 - - [07/Nov/2025 21:57:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 21:57:28,847 - INFO - 127.0.0.1 - - [07/Nov/2025 21:57:28] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:37:46,301 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.46.228:5000
+2025-11-07 22:37:46,303 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 22:37:46,329 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:37:53,865 - WARNING -  * Debugger is active!
+2025-11-07 22:37:53,871 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 22:39:30,810 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\joblib\\__init__.py', reloading
+2025-11-07 22:39:30,831 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\__init__.py', reloading
+2025-11-07 22:39:30,849 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\app.py', reloading
+2025-11-07 22:39:30,972 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\globals.py', reloading
+2025-11-07 22:39:30,980 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2025-11-07 22:39:30,994 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-11-07 22:39:30,998 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-11-07 22:39:31,016 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-11-07 22:39:31,056 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+2025-11-07 22:39:31,076 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-11-07 22:39:31,121 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2025-11-07 22:39:31,134 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dotenv\\main.py', reloading
+2025-11-07 22:39:31,229 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\shap\\__init__.py', reloading
+2025-11-07 22:39:31,271 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\google\\generativeai\\__init__.py', reloading
+2025-11-07 22:39:31,305 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask_sqlalchemy\\__init__.py', reloading
+2025-11-07 22:39:31,308 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask_sqlalchemy\\extension.py', reloading
+2025-11-07 22:39:31,404 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\__init__.py', reloading
+2025-11-07 22:39:31,415 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\schema.py', reloading
+2025-11-07 22:39:31,423 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\sql\\schema.py', reloading
+2025-11-07 22:39:31,525 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\sql\\base.py', reloading
+2025-11-07 22:39:31,548 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\event\\__init__.py', reloading
+2025-11-07 22:39:31,558 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\util\\__init__.py', reloading
+2025-11-07 22:39:31,578 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\util\\_collections.py', reloading
+2025-11-07 22:39:31,592 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\util\\_py_collections.py', reloading
+2025-11-07 22:39:31,618 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\util\\typing.py', reloading
+2025-11-07 22:39:31,629 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\event\\registry.py', reloading
+2025-11-07 22:39:31,638 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\sql\\__init__.py', reloading
+2025-11-07 22:39:31,647 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\sql\\visitors.py', reloading
+2025-11-07 22:39:31,661 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\inspection.py', reloading
+2025-11-07 22:39:31,678 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask_sqlalchemy\\query.py', reloading
+2025-11-07 22:39:31,685 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\orm\\__init__.py', reloading
+2025-11-07 22:39:31,694 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\orm\\query.py', reloading
+2025-11-07 22:39:31,715 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sqlalchemy\\sql\\selectable.py', reloading
+2025-11-07 22:39:33,422 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:39:44,061 - WARNING -  * Debugger is active!
+2025-11-07 22:39:44,065 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 22:41:00,963 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 22:41:00,967 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 22:41:00,967 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 22:41:02,409 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:41:26,150 - INFO -  Gemini Model configured successfully
+2025-11-07 22:41:26,211 - INFO -  All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:41:26,216 - INFO -  Database initialized successfully
+2025-11-07 22:41:26,249 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.46.228:5000
+2025-11-07 22:41:26,249 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 22:41:26,264 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:41:31,760 - INFO -  Gemini Model configured successfully
+2025-11-07 22:41:31,789 - INFO -  All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:41:31,793 - INFO -  Database initialized successfully
+2025-11-07 22:41:31,808 - WARNING -  * Debugger is active!
+2025-11-07 22:41:31,811 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 22:41:43,001 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:43] "GET / HTTP/1.1" 200 -
+2025-11-07 22:41:43,156 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 22:41:43,509 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-07 22:41:52,712 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-07 22:41:52,742 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:52] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:41:52,826 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 22:41:52,843 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:52] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:41:56,113 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:56] "GET /settings HTTP/1.1" 200 -
+2025-11-07 22:41:56,166 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 22:41:57,577 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:57] "[32mPOST /clear-history HTTP/1.1[0m" 302 -
+2025-11-07 22:41:57,588 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:57] "GET /settings HTTP/1.1" 200 -
+2025-11-07 22:41:57,937 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 22:41:58,669 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:58] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:41:58,735 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 22:41:58,766 - INFO - 127.0.0.1 - - [07/Nov/2025 22:41:58] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:42:04,074 - INFO - Chat request from user 1: 178 chars, Image: False
+2025-11-07 22:42:04,082 - INFO - Using Gemini extraction with context
+2025-11-07 22:42:08,582 - ERROR -  Gemini extraction failed: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
+2025-11-07 22:42:08,582 - ERROR - Feature engineering error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 22:42:08,582 - ERROR - XAI processing error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 22:42:08,586 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 943, in handle_chat_query
+    features_df, med_list_text = engineer_features(patient_data)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 295, in engineer_features
+    age = max(int(patient_data.get('Age', 70)), 65)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+
+2025-11-07 22:42:13,733 - INFO - 127.0.0.1 - - [07/Nov/2025 22:42:13] "POST /chat HTTP/1.1" 200 -
+2025-11-07 22:42:13,746 - INFO - 127.0.0.1 - - [07/Nov/2025 22:42:13] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:42:49,127 - INFO - Chat request from user 1: 27 chars, Image: False
+2025-11-07 22:42:49,130 - INFO - Using Gemini extraction with context
+2025-11-07 22:42:51,147 - ERROR -  Gemini extraction failed: 'list' object has no attribute 'get'
+2025-11-07 22:42:51,147 - ERROR - Feature engineering error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 22:42:51,147 - ERROR - XAI processing error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 22:42:51,147 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 943, in handle_chat_query
+    features_df, med_list_text = engineer_features(patient_data)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 295, in engineer_features
+    age = max(int(patient_data.get('Age', 70)), 65)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+
+2025-11-07 22:42:55,552 - INFO - 127.0.0.1 - - [07/Nov/2025 22:42:55] "POST /chat HTTP/1.1" 200 -
+2025-11-07 22:42:55,567 - INFO - 127.0.0.1 - - [07/Nov/2025 22:42:55] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:53:43,324 - INFO - 127.0.0.1 - - [07/Nov/2025 22:53:43] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:53:43,372 - INFO - 127.0.0.1 - - [07/Nov/2025 22:53:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 22:53:43,500 - INFO - 127.0.0.1 - - [07/Nov/2025 22:53:43] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:53:47,665 - INFO - 127.0.0.1 - - [07/Nov/2025 22:53:47] "GET /settings HTTP/1.1" 200 -
+2025-11-07 22:53:47,726 - INFO - 127.0.0.1 - - [07/Nov/2025 22:53:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 22:53:49,863 - INFO - 127.0.0.1 - - [07/Nov/2025 22:53:49] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:53:49,937 - INFO - 127.0.0.1 - - [07/Nov/2025 22:53:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 22:53:49,955 - INFO - 127.0.0.1 - - [07/Nov/2025 22:53:49] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 22:56:22,469 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 22:56:22,473 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 22:56:27,012 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:56:49,722 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 22:56:49,768 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:56:49,802 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-07 22:56:49,802 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 22:56:49,830 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:56:55,965 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 22:56:55,993 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:56:56,018 - WARNING -  * Debugger is active!
+2025-11-07 22:56:56,023 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 22:57:07,917 - INFO - Default user created for testing.
+2025-11-07 22:57:07,927 - INFO - 127.0.0.1 - - [07/Nov/2025 22:57:07] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-07 22:57:08,009 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2025-11-07 22:57:08,022 - INFO - 127.0.0.1 - - [07/Nov/2025 22:57:08] "[35m[1mGET /chat HTTP/1.1[0m" 500 -
+2025-11-07 22:57:08,098 - INFO - 127.0.0.1 - - [07/Nov/2025 22:57:08] "GET /chat?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-11-07 22:57:08,119 - INFO - 127.0.0.1 - - [07/Nov/2025 22:57:08] "GET /chat?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-11-07 22:57:09,318 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:57:18,064 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 22:57:18,124 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:57:18,142 - WARNING -  * Debugger is active!
+2025-11-07 22:57:18,142 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 22:57:18,208 - INFO - 127.0.0.1 - - [07/Nov/2025 22:57:18] "GET /chat?__debugger__=yes&cmd=resource&f=console.png&s=QpIRxv7ww4exHpgBkcO5 HTTP/1.1" 200 -
+2025-11-07 22:57:18,210 - INFO - 127.0.0.1 - - [07/Nov/2025 22:57:18] "GET /chat?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-11-07 22:57:18,242 - INFO - 127.0.0.1 - - [07/Nov/2025 22:57:18] "[36mGET /chat?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-11-07 22:58:39,362 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 22:58:39,405 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:58:39,439 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-07 22:58:39,439 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 22:58:39,466 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:58:46,806 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 22:58:46,879 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:58:46,905 - WARNING -  * Debugger is active!
+2025-11-07 22:58:46,911 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 22:58:47,046 - INFO - 127.0.0.1 - - [07/Nov/2025 22:58:47] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-07 22:58:47,394 - INFO - 127.0.0.1 - - [07/Nov/2025 22:58:47] "GET /chat HTTP/1.1" 200 -
+2025-11-07 22:58:47,602 - INFO - 127.0.0.1 - - [07/Nov/2025 22:58:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-07 22:59:40,493 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 22:59:40,534 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:59:40,572 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-07 22:59:40,572 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 22:59:40,591 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 22:59:46,656 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 22:59:46,688 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 22:59:46,707 - WARNING -  * Debugger is active!
+2025-11-07 22:59:46,720 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 22:59:46,847 - INFO - 127.0.0.1 - - [07/Nov/2025 22:59:46] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-07 22:59:46,890 - INFO - 127.0.0.1 - - [07/Nov/2025 22:59:46] "GET /chat HTTP/1.1" 200 -
+2025-11-07 22:59:47,133 - INFO - 127.0.0.1 - - [07/Nov/2025 22:59:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-07 23:02:51,526 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py', reloading
+2025-11-07 23:02:53,307 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:03:04,324 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:03:04,375 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:03:04,400 - WARNING -  * Debugger is active!
+2025-11-07 23:03:04,406 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:05:35,138 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\__init__.py', reloading
+2025-11-07 23:05:35,146 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_base.py', reloading
+2025-11-07 23:05:35,182 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_csr.py', reloading
+2025-11-07 23:05:35,196 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_csc.py', reloading
+2025-11-07 23:05:35,203 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_lil.py', reloading
+2025-11-07 23:05:35,219 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_dok.py', reloading
+2025-11-07 23:05:35,237 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_coo.py', reloading
+2025-11-07 23:05:35,280 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_dia.py', reloading
+2025-11-07 23:05:35,296 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_bsr.py', reloading
+2025-11-07 23:05:35,316 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_construct.py', reloading
+2025-11-07 23:05:35,331 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_extract.py', reloading
+2025-11-07 23:05:35,334 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_matrix_io.py', reloading
+2025-11-07 23:05:35,336 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy\\sparse\\_matrix.py', reloading
+2025-11-07 23:05:36,636 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:05:45,546 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:05:45,593 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:05:45,606 - WARNING -  * Debugger is active!
+2025-11-07 23:05:45,606 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:07:04,206 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:04,206 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:04,206 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:05,263 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:07:11,188 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:07:11,213 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:07:11,226 - WARNING -  * Debugger is active!
+2025-11-07 23:07:11,229 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:07:13,487 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:13,487 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:13,487 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:13,487 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:15,384 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:07:23,958 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:07:24,006 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:07:24,029 - WARNING -  * Debugger is active!
+2025-11-07 23:07:24,034 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:07:58,230 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:58,232 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:58,232 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\model_trainer.py', reloading
+2025-11-07 23:07:59,148 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:08:05,319 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:08:05,351 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:08:05,363 - WARNING -  * Debugger is active!
+2025-11-07 23:08:05,367 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:08:16,331 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\io.py', reloading
+2025-11-07 23:08:17,315 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:08:26,192 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:08:26,238 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:08:26,260 - WARNING -  * Debugger is active!
+2025-11-07 23:08:26,266 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:11:08,337 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:11:08,404 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:11:08,433 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-07 23:11:08,433 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 23:11:08,457 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:11:13,844 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:11:13,870 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:11:13,883 - WARNING -  * Debugger is active!
+2025-11-07 23:11:13,887 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:11:25,853 - INFO - 127.0.0.1 - - [07/Nov/2025 23:11:25] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-07 23:11:26,113 - INFO - 127.0.0.1 - - [07/Nov/2025 23:11:26] "GET /chat HTTP/1.1" 200 -
+2025-11-07 23:11:27,253 - INFO - 127.0.0.1 - - [07/Nov/2025 23:11:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-07 23:11:31,828 - INFO - User 2 query: hii
+2025-11-07 23:11:36,188 - ERROR - ❌ Gemini extraction failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-11-07 23:11:36,199 - INFO - Using Regex Fallback for feature extraction.
+2025-11-07 23:11:36,205 - INFO - ✅ Features engineered: Age=70, Rx=0, Gender=Female
+2025-11-07 23:11:36,233 - ERROR - SHAP analysis error: ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2025-11-07 23:11:36,290 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\shap\\explainers\\_exact.py', reloading
+2025-11-07 23:11:36,290 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\shap\\utils\\_masked_model.py', reloading
+2025-11-07 23:11:36,290 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\shap\\maskers\\_tabular.py', reloading
+2025-11-07 23:11:36,331 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 471, in get_xai_and_recommendation
+    shap_values_obj = ADE_EXPLAINER(features_numeric)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_exact.py", line 84, in __call__
+    return super().__call__(
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_explainer.py", line 366, in __call__
+    row_result = self.explain_row(
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_exact.py", line 102, in explain_row
+    fm = MaskedModel(self.model, self.masker, self.link, self.linearize_link, *row_args)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\utils\_masked_model.py", line 31, in __init__
+    self._variants = ~self.masker.invariants(*args)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\maskers\_tabular.py", line 166, in invariants
+    return np.isclose(x, self.data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\_core\numeric.py", line 2448, in isclose
+    & isfinite(y)
+      ^^^^^^^^^^^
+TypeError: ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+2025-11-07 23:11:36,331 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\numeric.py', reloading
+2025-11-07 23:11:36,376 - INFO - 127.0.0.1 - - [07/Nov/2025 23:11:36] "POST /process_query HTTP/1.1" 200 -
+2025-11-07 23:11:40,243 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:11:52,090 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:11:52,139 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:11:52,170 - WARNING -  * Debugger is active!
+2025-11-07 23:11:52,178 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:11:59,665 - INFO - User 2 query: how are u? who are u what is your purpose?
+2025-11-07 23:12:03,462 - INFO - ✅ Gemini extraction successful: {'Age': 70, 'Gender': 'Female', 'Creatinine': 1.0, 'Chronic_Disease_Index': 3, 'MedicationList_Text': ''}
+2025-11-07 23:12:03,475 - INFO - ✅ Features engineered: Age=70, Rx=0, Gender=Female
+2025-11-07 23:12:03,523 - ERROR - SHAP analysis error: ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2025-11-07 23:12:03,529 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 471, in get_xai_and_recommendation
+    shap_values_obj = ADE_EXPLAINER(features_numeric)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_exact.py", line 84, in __call__
+    return super().__call__(
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_explainer.py", line 366, in __call__
+    row_result = self.explain_row(
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_exact.py", line 102, in explain_row
+    fm = MaskedModel(self.model, self.masker, self.link, self.linearize_link, *row_args)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\utils\_masked_model.py", line 31, in __init__
+    self._variants = ~self.masker.invariants(*args)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\maskers\_tabular.py", line 166, in invariants
+    return np.isclose(x, self.data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\_core\numeric.py", line 2448, in isclose
+    & isfinite(y)
+      ^^^^^^^^^^^
+TypeError: ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+2025-11-07 23:12:03,549 - INFO - 127.0.0.1 - - [07/Nov/2025 23:12:03] "POST /process_query HTTP/1.1" 200 -
+2025-11-07 23:15:13,148 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\google\\genai\\__init__.py', reloading
+2025-11-07 23:15:13,172 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 23:15:13,172 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 23:15:13,172 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 23:15:13,657 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\google\\genai\\types.py', reloading
+2025-11-07 23:15:17,063 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:15:39,023 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:15:39,074 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:15:39,107 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-07 23:15:39,107 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 23:15:39,127 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:15:46,038 - INFO - ✅ Gemini Model configured successfully
+2025-11-07 23:15:46,070 - INFO - ✅ All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:15:46,086 - WARNING -  * Debugger is active!
+2025-11-07 23:15:46,092 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:15:50,000 - INFO - 127.0.0.1 - - [07/Nov/2025 23:15:50] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-07 23:15:50,048 - INFO - 127.0.0.1 - - [07/Nov/2025 23:15:50] "GET /chat HTTP/1.1" 200 -
+2025-11-07 23:15:50,860 - INFO - 127.0.0.1 - - [07/Nov/2025 23:15:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-07 23:15:55,034 - INFO - User 2 query: hi
+2025-11-07 23:15:55,043 - ERROR - Gemini classification error: Invalid input type. Expected a `dict` or `GenerationConfig` for `generation_config`.
+However, received an object of type: <class 'google.genai.types.GenerateContentConfig'>.
+Object Value: http_options=None should_return_http_response=None system_instruction=None temperature=0.0 top_p=None top_k=None candidate_count=None max_output_tokens=10 stop_sequences=None response_logprobs=None logprobs=None presence_penalty=None frequency_penalty=None seed=None response_mime_type=None response_schema=None response_json_schema=None routing_config=None model_selection_config=None safety_settings=None tools=None tool_config=None labels=None cached_content=None response_modalities=None media_resolution=None speech_config=None audio_timestamp=None automatic_function_calling=None thinking_config=None. Defaulting to chat.
+2025-11-07 23:15:55,044 - INFO - Query classified as: chat
+2025-11-07 23:15:55,044 - ERROR - General Gemini chat failed: GenerativeModel.generate_content() got an unexpected keyword argument 'system_instruction'
+2025-11-07 23:15:55,065 - INFO - 127.0.0.1 - - [07/Nov/2025 23:15:55] "POST /process_query HTTP/1.1" 200 -
+2025-11-07 23:16:10,104 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 23:16:10,104 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 23:16:10,104 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 23:16:11,407 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:16:20,041 - INFO -  Gemini Model configured successfully
+2025-11-07 23:16:20,074 - INFO -  All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:16:20,112 - WARNING -  * Debugger is active!
+2025-11-07 23:16:20,117 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:16:45,203 - INFO -  Gemini Model configured successfully
+2025-11-07 23:16:45,249 - INFO -  All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:16:45,292 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.46.228:5000
+2025-11-07 23:16:45,292 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 23:16:45,310 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:16:53,516 - INFO -  Gemini Model configured successfully
+2025-11-07 23:16:53,579 - INFO -  All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:16:53,627 - WARNING -  * Debugger is active!
+2025-11-07 23:16:53,633 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:16:53,958 - INFO - 127.0.0.1 - - [07/Nov/2025 23:16:53] "GET / HTTP/1.1" 200 -
+2025-11-07 23:16:54,221 - INFO - 127.0.0.1 - - [07/Nov/2025 23:16:54] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-07 23:16:54,669 - INFO - 127.0.0.1 - - [07/Nov/2025 23:16:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-07 23:17:06,218 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-07 23:17:06,236 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:06] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:17:06,296 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 23:17:06,327 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:06] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:17:13,021 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:13] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:17:13,059 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 23:17:13,105 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:13] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:17:14,903 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:14] "GET /settings HTTP/1.1" 200 -
+2025-11-07 23:17:14,962 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 23:17:19,448 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:19] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:17:19,520 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 23:17:19,565 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:19] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:17:26,088 - INFO - Chat request from user 1: 3 chars, Image: False
+2025-11-07 23:17:26,100 - INFO - Using Gemini extraction with context
+2025-11-07 23:17:29,423 - ERROR -  Gemini extraction failed: 'list' object has no attribute 'get'
+2025-11-07 23:17:29,423 - ERROR - Feature engineering error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 23:17:29,423 - ERROR - XAI processing error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 23:17:29,429 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 943, in handle_chat_query
+    features_df, med_list_text = engineer_features(patient_data)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 295, in engineer_features
+    age = max(int(patient_data.get('Age', 70)), 65)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+
+2025-11-07 23:17:39,777 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:39] "POST /chat HTTP/1.1" 200 -
+2025-11-07 23:17:39,803 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:39] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:17:48,001 - INFO - Chat request from user 1: 22 chars, Image: False
+2025-11-07 23:17:48,004 - INFO - Using Gemini extraction with context
+2025-11-07 23:17:49,694 - INFO -  Gemini extraction successful: {'Age': 78, 'Gender': 'Female', 'Creatinine': 1.4, 'Chronic_Disease_Index': 3, 'MedicationList_Text': 'Warfarin 5mg daily, Lisinopril 10mg daily, Metformin 500mg BID, Gabapentin 100mg TID, Omeprazole 20mg daily'}
+2025-11-07 23:17:49,707 - INFO - Proceeding with XAI analysis
+2025-11-07 23:17:49,730 - ERROR - SHAP analysis error: ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2025-11-07 23:17:49,741 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 344, in get_xai_and_recommendation
+    shap_values_obj = ADE_EXPLAINER(features_numeric)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_exact.py", line 84, in __call__
+    return super().__call__(
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_explainer.py", line 366, in __call__
+    row_result = self.explain_row(
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\explainers\_exact.py", line 102, in explain_row
+    fm = MaskedModel(self.model, self.masker, self.link, self.linearize_link, *row_args)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\utils\_masked_model.py", line 31, in __init__
+    self._variants = ~self.masker.invariants(*args)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\shap\maskers\_tabular.py", line 166, in invariants
+    return np.isclose(x, self.data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\_core\numeric.py", line 2448, in isclose
+    & isfinite(y)
+      ^^^^^^^^^^^
+TypeError: ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+2025-11-07 23:17:49,756 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:49] "POST /chat HTTP/1.1" 200 -
+2025-11-07 23:17:49,837 - INFO - 127.0.0.1 - - [07/Nov/2025 23:17:49] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:18:02,642 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:02] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:18:02,678 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 23:18:02,722 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:02] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:18:05,482 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:05] "GET /settings HTTP/1.1" 200 -
+2025-11-07 23:18:05,547 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 23:18:07,064 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:07] "[32mPOST /clear-history HTTP/1.1[0m" 302 -
+2025-11-07 23:18:07,073 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:07] "GET /settings HTTP/1.1" 200 -
+2025-11-07 23:18:07,136 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 23:18:09,308 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:09] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:18:09,379 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-07 23:18:09,389 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:09] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:18:40,512 - INFO - Chat request from user 1: 80 chars, Image: True
+2025-11-07 23:18:40,514 - INFO - Using Gemini extraction with context
+2025-11-07 23:18:41,621 - ERROR -  Gemini extraction failed: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
+2025-11-07 23:18:41,621 - ERROR - Feature engineering error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 23:18:41,621 - ERROR - XAI processing error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 23:18:41,621 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 943, in handle_chat_query
+    features_df, med_list_text = engineer_features(patient_data)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 295, in engineer_features
+    age = max(int(patient_data.get('Age', 70)), 65)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+
+2025-11-07 23:18:41,655 - INFO - Image processed for conversational mode
+2025-11-07 23:18:55,763 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:55] "POST /chat HTTP/1.1" 200 -
+2025-11-07 23:18:55,775 - INFO - 127.0.0.1 - - [07/Nov/2025 23:18:55] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:21:07,806 - INFO - Chat request from user 1: 21 chars, Image: False
+2025-11-07 23:21:07,809 - INFO - Using Gemini extraction with context
+2025-11-07 23:21:14,911 - ERROR -  Gemini extraction failed: 'list' object has no attribute 'get'
+2025-11-07 23:21:14,912 - ERROR - Feature engineering error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 23:21:14,912 - ERROR - XAI processing error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 23:21:14,912 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 943, in handle_chat_query
+    features_df, med_list_text = engineer_features(patient_data)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 295, in engineer_features
+    age = max(int(patient_data.get('Age', 70)), 65)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+
+2025-11-07 23:21:17,170 - INFO - 127.0.0.1 - - [07/Nov/2025 23:21:17] "POST /chat HTTP/1.1" 200 -
+2025-11-07 23:21:17,178 - INFO - 127.0.0.1 - - [07/Nov/2025 23:21:17] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:21:41,521 - INFO - Chat request from user 1: 44 chars, Image: False
+2025-11-07 23:21:41,523 - INFO - Using Gemini extraction with context
+2025-11-07 23:21:46,553 - ERROR -  Gemini extraction failed: 'list' object has no attribute 'get'
+2025-11-07 23:21:46,554 - ERROR - Feature engineering error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 23:21:46,554 - ERROR - XAI processing error: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-11-07 23:21:46,555 - ERROR - Traceback (most recent call last):
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 943, in handle_chat_query
+    features_df, med_list_text = engineer_features(patient_data)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\janan\POLYPHARMACY CHATBOT\app.py", line 295, in engineer_features
+    age = max(int(patient_data.get('Age', 70)), 65)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+
+2025-11-07 23:21:55,275 - INFO - 127.0.0.1 - - [07/Nov/2025 23:21:55] "POST /chat HTTP/1.1" 200 -
+2025-11-07 23:21:55,283 - INFO - 127.0.0.1 - - [07/Nov/2025 23:21:55] "GET /chat_page HTTP/1.1" 200 -
+2025-11-07 23:28:30,002 - INFO -  Gemini Model configured successfully
+2025-11-07 23:28:30,108 - INFO -  All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:28:30,199 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.46.228:5000
+2025-11-07 23:28:30,199 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-07 23:28:30,240 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-07 23:28:44,172 - INFO -  Gemini Model configured successfully
+2025-11-07 23:28:44,234 - INFO -  All ML Models and SHAP Explainer loaded successfully
+2025-11-07 23:28:44,280 - WARNING -  * Debugger is active!
+2025-11-07 23:28:44,288 - INFO -  * Debugger PIN: 207-884-427
+2025-11-07 23:39:11,272 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 23:39:11,281 - INFO -  * Detected change in 'C:\\Users\\janan\\POLYPHARMACY CHATBOT\\app.py', reloading
+2025-11-07 23:39:13,215 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-09 19:31:16,739 - INFO - Database tables created successfully
+2025-11-09 19:31:16,740 - INFO - SUCCESS: Gemini Model configured successfully
+2025-11-09 19:31:16,797 - INFO - ✅ ML Models loaded successfully
+2025-11-09 19:31:16,838 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.102.46.228:5000
+2025-11-09 19:31:16,838 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-09 19:31:16,875 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-09 19:31:23,581 - INFO - Database tables created successfully
+2025-11-09 19:31:23,581 - INFO - SUCCESS: Gemini Model configured successfully
+2025-11-09 19:31:23,615 - INFO - ✅ ML Models loaded successfully
+2025-11-09 19:31:23,629 - WARNING -  * Debugger is active!
+2025-11-09 19:31:23,634 - INFO -  * Debugger PIN: 135-530-450
+2025-11-09 19:31:38,069 - INFO -  * Detected change in 'C:\\Users\\janan\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+2025-11-09 19:31:38,084 - INFO - 127.0.0.1 - - [09/Nov/2025 19:31:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-11-09 19:31:38,256 - INFO - 127.0.0.1 - - [09/Nov/2025 19:31:38] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-11-09 19:31:38,306 - INFO - 127.0.0.1 - - [09/Nov/2025 19:31:38] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-11-09 19:31:38,549 - INFO - 127.0.0.1 - - [09/Nov/2025 19:31:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=jRvHabQdEv0rmV8NLv3h HTTP/1.1" 200 -
+2025-11-09 19:31:38,553 - INFO - 127.0.0.1 - - [09/Nov/2025 19:31:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-11-09 19:31:38,620 - INFO - 127.0.0.1 - - [09/Nov/2025 19:31:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-11-09 19:31:39,851 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-09 19:31:49,147 - INFO - Database tables created successfully
+2025-11-09 19:31:49,149 - INFO - SUCCESS: Gemini Model configured successfully
+2025-11-09 19:31:49,206 - INFO - ✅ ML Models loaded successfully
+2025-11-09 19:31:49,237 - WARNING -  * Debugger is active!
+2025-11-09 19:31:49,245 - INFO -  * Debugger PIN: 135-530-450
