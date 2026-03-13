@@ -267,6 +267,4 @@ This project is for educational and research purposes.
 
 ---
 
-<div align="center">
-Made with ❤️ for safer geriatric care
-</div>
+
